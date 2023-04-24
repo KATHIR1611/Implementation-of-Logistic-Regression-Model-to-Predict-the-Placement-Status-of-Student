@@ -80,47 +80,47 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 Placement data
 
-![]()
+![](s1.png)
 
 Salary data
 
-![]()
+![](s2.png)
 
 Checking null() function
 
-![]()
+![](s3.png)
 
 Duplication of data
 
-![]()
+![](s4.png)
 
 Print data
 
-![]()
+![](s5.png)
 
 Data status
 
-![]()
+![](s7.png)
 
 y-prediction array
 
-![]()
+![](s8.png)
 
 Accuracy value
 
-![]()
+![](s9.png)
 
 Confusion array
 
-![]()
+![](s10.png)
 
 Classification report
 
-![]()
+![](s11..png)
 
 Prediction of LR
 
-![]()
+![](s12.png)
 
 
 
