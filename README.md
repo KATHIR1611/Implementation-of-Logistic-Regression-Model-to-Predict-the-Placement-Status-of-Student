@@ -84,7 +84,7 @@ Placement data
 
 Salary data
 
-![](s2.jpg)
+![](s2.png)
 
 Checking null() function
 
