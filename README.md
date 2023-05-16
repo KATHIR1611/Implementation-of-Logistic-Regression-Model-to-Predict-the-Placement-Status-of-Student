@@ -123,7 +123,7 @@ Confusion array
 
 Classification report
 
-![](s11..png)
+![](s11.png)
 
 Prediction of LR
 
